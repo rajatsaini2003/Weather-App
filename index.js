@@ -1,5 +1,5 @@
 
-const API_KEY= "8750923MaiNahiBatauga983576";
+const API_KEY= "d0a0973ab893b8084fec7038ae4e47b4";
 const userTab=document.querySelector("[data-userWeather]");
 const searchTab=document.querySelector("[data-searchWeather]");
 const userContainer=document.querySelector(".weather-container");
