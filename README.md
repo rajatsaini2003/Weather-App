@@ -26,6 +26,8 @@ Upon opening the app, you'll be asked to allow location access for accurate weat
 Once granted, the app will display the current weather conditions for your location.
 You can also search for weather forecasts in other locations by entering a city in the search bar.
 
+Here's the deployed app link to app: https://weather-app-hazel-mu.vercel.app/
+
 
 # Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
